@@ -37,3 +37,5 @@ RUN pip install --no-cache-dir \
     tornado==4.5.3 \
     opencv-python \
     asyncio
+
+# sudo docker run --privileged=true --device /dev/vchiq
